@@ -4,7 +4,7 @@ A self-inflicted code challenge written in vanilla HTML and JavaScript: recreate
 
 Written 12/13/19, before attending Nashville Software School, based on skills learned with Treehouse courses.
 
-Demo it live [here](https://codesandbox.io/s/dank-sky-4mryc?file=/index.html)!
+Demo it live [here](https://codesandbox.io/s/going-to-boston-dice-game-4mryc?file=/index.html)!
 
 # How the Game is Played
 
